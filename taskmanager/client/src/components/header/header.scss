@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 210, 47);
+    align-items: center;
+    height: 60px;
+    padding: 0 20px;
+}
+
+.header__logo h5 {
+    color: black;
+    font-weight: 300;
+  }
+  .header .button {
+    background-color: palegoldenrod;
+  }/*# sourceMappingURL=header.css.map */
